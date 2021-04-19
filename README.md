@@ -7,4 +7,4 @@ Three-dimensional models of the Coronavirus (SARS-CoV-2, SARS-CoV, and MERS-CoV)
 
 Raw data collected from each of the structural alignment tools for each RBM can be found in the "raw_data" directory
 
-Inquiries on models and data can be sent to cab233@cam.ac.uk and tlb20@cam.ac.uk
+Inquiries on models and data can be sent to Chris Beaudoin, cab233@cam.ac.uk, and Prof. Sir Tom Blundell, tlb20@cam.ac.uk
